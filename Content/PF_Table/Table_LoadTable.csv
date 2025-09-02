@@ -1,0 +1,3 @@
+---,DisplayName,TableName,NeedLoadOrder,ObjectTable
+TB_Widget,"","TableName_Widget","True","/Game/PF_Table/Table_Widget.Table_Widget"
+TB_Actor,"","TableName_Actor","False","/Game/PF_Table/Table_Actor.Table_Actor"
